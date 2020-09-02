@@ -1,1 +1,1 @@
-This project is just a demo how to use git 123 - 456 - 789 - 10
+This project is just a demo how to use git 123 - 456 - 789
